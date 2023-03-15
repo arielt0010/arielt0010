@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arielt0010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ariel Tellez.
+- 👀 I’m interested in developing desktop apps.
+- 🌱 I’m currently learning Angular and Flutter
+- 💞️ I’m looking to collaborate on anything new!
 - 📫 How to reach me ... arieltellez at gmail.com
 
 <!---
