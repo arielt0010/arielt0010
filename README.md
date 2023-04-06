@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ariel Tellez.
-- 👀 I’m interested in developing desktop apps.
-- 🌱 I’m currently learning Angular and Flutter
+- 👀 I’m interested in developing desktop, mobile apps, networks, SQL, C#, Java.
 - 💞️ I’m looking to collaborate on anything new!
 - 📫 How to reach me ... arieltellez at gmail.com
 
