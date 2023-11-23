@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ariel Tellez.
-- 👀 I’m interested in developing desktop, mobile apps, networks, SQL, C#, Java.
+- 👀 I’m interested in developing SQL queries and Tableau/Power BI data visualization. 
+- 📚 I know C#, Phyton, and Java too. 
 - 💞️ I’m looking to collaborate on anything new!
 - 📫 How to reach me ... arieltellez at gmail.com
 
